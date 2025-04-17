@@ -103,3 +103,8 @@ With a strong foundation in both technical development and product thinking, Iâ€
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/debjit.ghosal)
 [![X](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/debjit_ghosal1)
 
+---
+
+### ðŸ’¡ Dev Quote of the Day
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
