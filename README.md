@@ -1,10 +1,8 @@
 <!-- 👋 Hi there, I'm Debjit Ghosal -->
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="35%" alt="Coding GIF" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="45%" alt="Coding GIF" />
 
-## 👋 Hi there, I'm Debjit Ghosal
-
----
+<h1 align="left">👋 Hi there, I'm Debjit Ghosal</h1>
 
 A passionate frontend developer from India, dedicated to crafting seamless user experiences and building innovative web solutions. I believe that great design and clean code go hand-in-hand, and I strive to bridge the gap between functionality and aesthetics in every project I undertake.
 
