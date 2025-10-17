@@ -25,9 +25,23 @@ With a strong foundation in both technical development and product thinking, I�
 
 ### 🧠 Projects
 
-- **Signifique**: AI-powered sign language learning and communication app.
-- **VibeBoost**: AI-based music mood enhancer using facial and text sentiment analysis.
-- **Fraud Detection AI**: AI model to analyze financial tips and detect misinformation.
+- **FestFrenzy – Event Booking Platform**: [Live Demo](https://example-live-demo.com)  
+  Designed distinct user experiences for Admin, Vendor, and Customer roles, improving UX clarity and reducing navigation time by 25%. Built QR-based e-tickets, real-time notifications, and an analytics dashboard, increasing ticket processing efficiency by 40%. Backend: Node.js, Express, MongoDB; Frontend: React.js + Tailwind.
+
+- **StayNGo – Lodging Platform**: [GitHub Repo](https://github.com/debjitghosal/StayNGo)  
+  Built secure lodging web app with user authentication and role-based access, raising booking transparency by 30%. Designed normalized MySQL schema and admin dashboard for property and review management.
+
+- **VeriFy – Fake News Detection Website**: [GitHub Repo](https://github.com/debjitghosal/Fake_News_Detector)  
+  Achieved 92% classification accuracy using TF-IDF + Logistic Regression. Developed Flask web interface for real-time validation and API-based credibility scoring.
+
+- **AI-Powered Financial Report Analyzer**: [Live Demo](https://example-live-demo.com)  
+  Automated extraction and summarization of 300-page financial reports into 5-page AI-generated dashboards. Integrated Twilio API for instant WhatsApp report delivery and Power BI for visualization.
+
+- **Optimix Advisors LLP – Company Website**: [Live Site](http://optimixadvisors.com/)  
+  Developed and launched a high-performance company website, increasing organic traffic by 35% and contributing to 20% business revenue growth. Optimized site performance with caching and lazy loading, reducing load time by 45%.
+
+- **Fugumobile Limited – AI Avatar Chatbot**: [Live Site](https://www.fugumobile.com/)  
+  Engineered multimodal AI Avatar Chatbot integrating voice, text, and visual interaction. Increased user engagement by 60% with a professional female AI persona. Implemented serverless deployment using Vercel Edge Functions, reducing operational costs by 30%.
 
 ---
 
