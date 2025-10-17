@@ -105,10 +105,7 @@ With a strong foundation in both technical development and product thinking, I�
 
 - [![JPMorgan – Investment Banking](https://img.shields.io/badge/JP%20Morgan-Investment_Banking-003087?style=for-the-badge&logo=jpmorgan&logoColor=white)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ZtgA28qyexifyEdHE/YD2kY95RQxQtXxFTS_ZtgA28qyexifyEdHE_ZQvae2SSp8YEh7mRM_1743927797748_completion_certificate.pdf)
 
-- [![Tata Group – Data Visualization](https://img.shields.io/badge/Tata-Data_Visualization-1c75bc?style=for-the-badge&logo=tata&logoColor=white)](https://example.com/tata-certificate)
-
-- [![Data Visualisation – Empowering Business with Effective Insights](https://img.shields.io/badge/Forage-Data_Visualisation-FF9900?style=for-the-badge&logo=forage&logoColor=white)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ifobHAoMjQs9s6bKS/MyXvBcppsW2FkNYCX_ifobHAoMjQs9s6bKS_ZQvae2SSp8YEh7mRM_1743918996940_completion_certificate.pdf)
-
+- [![Tata Group – Data Visualization](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ifobHAoMjQs9s6bKS/MyXvBcppsW2FkNYCX_ifobHAoMjQs9s6bKS_ZQvae2SSp8YEh7mRM_1743918996940_completion_certificate.pdf)
 
 ---
 
