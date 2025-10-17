@@ -25,7 +25,7 @@ With a strong foundation in both technical development and product thinking, I�
 
 ### 🧠 Projects
 
-- **FestFrenzy – Event Booking Platform**:[Building in progress] (https://example-live-demo.com)   
+- **FestFrenzy – Event Booking Platform**: [Building in progress](https://example-live-demo.com)   
   Designed distinct user experiences for Admin, Vendor, and Customer roles, improving UX clarity and reducing navigation time by 25%. Built QR-based e-tickets, real-time notifications, and an analytics dashboard, increasing ticket processing efficiency by 40%. Backend: Node.js, Express, MongoDB; Frontend: React.js + Tailwind.
 
 - **StayNGo – Lodging Platform**: [GitHub Repo](https://github.com/debjitghosal/StayNGo)  
