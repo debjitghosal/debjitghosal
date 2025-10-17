@@ -81,20 +81,34 @@ With a strong foundation in both technical development and product thinking, I�
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Render](https://img.shields.io/badge/Render-FF3E00?style=for-the-badge&logo=render&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 #### DevOps & APIs  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ---
 
 ### 📜 Certifications
 
-- [![Full Stack Web Dev](https://img.shields.io/badge/Udemy-Full--Stack--Bootcamp-02b875?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/certificate/UC-d63e68af-e337-4aa0-bc94-4dd0c2cee941/)
-- [![JPMorgan](https://img.shields.io/badge/JP%20Morgan-Investment%20Banking-003087?style=for-the-badge&logo=jpmorgan&logoColor=white)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ZtgA28qyexifyEdHE/YD2kY95RQxQtXxFTS_ZtgA28qyexifyEdHE_ZQvae2SSp8YEh7mRM_1743927797748_completion_certificate.pdf)
-- [![Tata Group](https://img.shields.io/badge/Tata--Data%20Viz-1c75bc?style=for-the-badge&logo=tata&logoColor=white)]()
+- [![Oracle Cloud Infrastructure – 2025 Certified Data Science Professional](https://img.shields.io/badge/Oracle_Cloud-Data_Science_Pro-FF0000?style=for-the-badge&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=24EA53BE5C3E481BC4E1D3F7335FE64ECD58E456513870E73F0E2983977C9CDC)
+
+- [![Oracle Cloud Infrastructure – 2025 Certified Generative AI Professional](https://img.shields.io/badge/Oracle_Cloud-Generative_AI_Pro-FF0000?style=for-the-badge&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=8762FCBD2370F5701E4FC4DB75BE6EF07672B99FF72742BBD70B453C0092422F)
+
+- [![Oracle Cloud Infrastructure – 2025 Certified AI Foundations Associate](https://img.shields.io/badge/Oracle_Cloud-AI_Foundations-FF0000?style=for-the-badge&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=697CEE996CFB7EAF668C098C194F53C461B1568C6FE16E678E61EF3B0BCD1CD8)
+
+- [![Full Stack Web Dev – Udemy Bootcamp](https://img.shields.io/badge/Udemy-Full--Stack--Bootcamp-02b875?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/certificate/UC-d63e68af-e337-4aa0-bc94-4dd0c2cee941/)
+
+- [![Complete Python Bootcamp – Udemy](https://img.shields.io/badge/Udemy-Python_Bootcamp-02b875?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/certificate/UC-7ed9f0bc-20a0-4f27-bd41-f62f68e29102/)
+
+- [![JPMorgan – Investment Banking](https://img.shields.io/badge/JP%20Morgan-Investment_Banking-003087?style=for-the-badge&logo=jpmorgan&logoColor=white)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ZtgA28qyexifyEdHE/YD2kY95RQxQtXxFTS_ZtgA28qyexifyEdHE_ZQvae2SSp8YEh7mRM_1743927797748_completion_certificate.pdf)
+
+- [![Tata Group – Data Visualization](https://img.shields.io/badge/Tata-Data_Visualization-1c75bc?style=for-the-badge&logo=tata&logoColor=white)](https://example.com/tata-certificate)
+
+- [![Data Visualisation – Empowering Business with Effective Insights](https://img.shields.io/badge/Forage-Data_Visualisation-FF9900?style=for-the-badge&logo=forage&logoColor=white)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ifobHAoMjQs9s6bKS/MyXvBcppsW2FkNYCX_ifobHAoMjQs9s6bKS_ZQvae2SSp8YEh7mRM_1743918996940_completion_certificate.pdf)
+
 
 ---
 
