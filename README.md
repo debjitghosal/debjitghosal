@@ -25,7 +25,7 @@ With a strong foundation in both technical development and product thinking, I�
 
 ### 🧠 Projects
 
-- **FestFrenzy – Event Booking Platform**: [Live Demo](https://example-live-demo.com)  
+- **FestFrenzy – Event Booking Platform**:[Building in progress] (https://example-live-demo.com)   
   Designed distinct user experiences for Admin, Vendor, and Customer roles, improving UX clarity and reducing navigation time by 25%. Built QR-based e-tickets, real-time notifications, and an analytics dashboard, increasing ticket processing efficiency by 40%. Backend: Node.js, Express, MongoDB; Frontend: React.js + Tailwind.
 
 - **StayNGo – Lodging Platform**: [GitHub Repo](https://github.com/debjitghosal/StayNGo)  
@@ -34,7 +34,7 @@ With a strong foundation in both technical development and product thinking, I�
 - **VeriFy – Fake News Detection Website**: [GitHub Repo](https://github.com/debjitghosal/Fake_News_Detector)  
   Achieved 92% classification accuracy using TF-IDF + Logistic Regression. Developed Flask web interface for real-time validation and API-based credibility scoring.
 
-- **AI-Powered Financial Report Analyzer**: [Live Demo](https://example-live-demo.com)  
+- **AI-Powered Financial Report Analyzer**: [Report Generated](https://drive.google.com/file/d/1Fa8-eeLM0a6syK1Cd0lQKb-8D3uDExOy/view?usp=drive_link)  
   Automated extraction and summarization of 300-page financial reports into 5-page AI-generated dashboards. Integrated Twilio API for instant WhatsApp report delivery and Power BI for visualization.
 
 - **Optimix Advisors LLP – Company Website**: [Live Site](http://optimixadvisors.com/)  
