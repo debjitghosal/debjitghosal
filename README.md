@@ -13,7 +13,7 @@
 
 A passionate frontend developer from India, dedicated to crafting seamless user experiences and building innovative web solutions. I believe that great design and clean code go hand-in-hand, and I strive to bridge the gap between functionality and aesthetics in every project I undertake.
 
-With a strong foundation in both technical development and product thinking, I’m constantly exploring new tools, frameworks, and ideas to stay ahead of the curve. Whether I’m collaborating on hackathons, leading initiatives, or building solo, I aim to deliver impact with creativity, consistency, and code that speaks.
+With a strong foundation in both technical development and product thinking, I’m constantly exploring new tools, frameworks, and ideas to stay ahead of the curve. Whether I’m collaborating on hackathons, leading initiatives, or building solo, including pitching and making a Healthcare Platform with Industry level Standards, I aim to deliver impact with creativity, consistency, and code that speaks.
 
 ---
 
@@ -37,7 +37,7 @@ With a strong foundation in both technical development and product thinking, I�
 - **AI-Powered Financial Report Analyzer**: [Report Generated](https://drive.google.com/file/d/1Fa8-eeLM0a6syK1Cd0lQKb-8D3uDExOy/view?usp=drive_link)  
   Automated extraction and summarisation of 300-page financial reports into 5-page AI-generated dashboards. Integrated Twilio API for instant WhatsApp report delivery and Power BI for visualisation.
 
--**Mom's Birthday Cinematic Mini-Movie**: [Live Site](https://momsbirthdaymovie.netlify.app/)  
+- **Mom's Birthday Cinematic Mini-Movie**: [Live Site](https://momsbirthdaymovie.netlify.app/)  
   A fully animated, interactive birthday web experience built with pure HTML, CSS and JavaScript.
 
 - **Optimix Advisors LLP – Company Website**: [Live Site](http://optimixadvisors.com/)  
