@@ -29,13 +29,16 @@ With a strong foundation in both technical development and product thinking, I�
   Designed distinct user experiences for Admin, Vendor, and Customer roles, improving UX clarity and reducing navigation time by 25%. Built QR-based e-tickets, real-time notifications, and an analytics dashboard, increasing ticket processing efficiency by 40%. Backend: Node.js, Express, MongoDB; Frontend: React.js + Tailwind.
 
 - **StayNGo – Lodging Platform**: [GitHub Repo](https://github.com/debjitghosal/StayNGo)  
-  Built secure lodging web app with user authentication and role-based access, raising booking transparency by 30%. Designed normalized MySQL schema and admin dashboard for property and review management.
+  Built a secure lodging web app with user authentication and role-based access, raising booking transparency by 30%. Designed normalized MySQL schema and admin dashboard for property and review management.
 
 - **VeriFy – Fake News Detection Website**: [GitHub Repo](https://github.com/debjitghosal/Fake_News_Detector)  
   Achieved 92% classification accuracy using TF-IDF + Logistic Regression. Developed Flask web interface for real-time validation and API-based credibility scoring.
 
 - **AI-Powered Financial Report Analyzer**: [Report Generated](https://drive.google.com/file/d/1Fa8-eeLM0a6syK1Cd0lQKb-8D3uDExOy/view?usp=drive_link)  
-  Automated extraction and summarization of 300-page financial reports into 5-page AI-generated dashboards. Integrated Twilio API for instant WhatsApp report delivery and Power BI for visualization.
+  Automated extraction and summarisation of 300-page financial reports into 5-page AI-generated dashboards. Integrated Twilio API for instant WhatsApp report delivery and Power BI for visualisation.
+
+-**Mom's Birthday Cinematic Mini-Movie**: [Live Site](https://momsbirthdaymovie.netlify.app/)  
+  A fully animated, interactive birthday web experience built with pure HTML, CSS and JavaScript.
 
 - **Optimix Advisors LLP – Company Website**: [Live Site](http://optimixadvisors.com/)  
   Developed and launched a high-performance company website, increasing organic traffic by 35% and contributing to 20% business revenue growth. Optimized site performance with caching and lazy loading, reducing load time by 45%.
