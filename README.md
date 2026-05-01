@@ -54,14 +54,14 @@ c<!-- 👋 Hi there, I'm Debjit Ghosal -->
 - **StayNGo – Lodging Platform**: [GitHub Repo](https://github.com/debjitghosal/StayNGo)  
   Secure booking system with authentication, role-based access, and admin control.
 
-- **Mom's Birthday Cinematic Mini-Movie**: [Live Site](https://momsbirthdaymovie.netlify.app/)  
-  Interactive animated web experience using HTML, CSS, and JavaScript.
-
 - **HoneyTrapX – Deception-Based Intruder Tracking System**: [GitHub Repo](https://github.com/debjitghosal/HoneyTrapX)  
   Cybersecurity honeypot system that silently captures intruder photos, GPS data, and activity logs, with a real-time admin dashboard for evidence analysis.
 
 - **ArtIQ – Image Style Identifier**: [GitHub Repo](https://github.com/debjitghosal/ArtIQ_image_identifier)  
   Full-stack image classification system using FastAI and ResNet-50 to detect artistic styles, deployed via Docker with a React-based frontend for real-time inference.
+
+- **Mom's Birthday Cinematic Mini-Movie**: [Live Site](https://momsbirthdaymovie.netlify.app/)  
+  Interactive animated web experience using HTML, CSS, and JavaScript.
 
 ---
 
