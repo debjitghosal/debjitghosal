@@ -1,4 +1,4 @@
-<!-- 👋 Hi there, I'm Debjit Ghosal -->
+c<!-- 👋 Hi there, I'm Debjit Ghosal -->
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,100:6C63FF&height=240&section=header&text=Debjit%20Ghosal&fontSize=45&fontAlignY=35&animation=fadeIn" /> </p>
 
@@ -36,35 +36,41 @@
 
 ### 🧠 Projects
 
-- **FinSight AI (Financial Intelligence Engine)**  
+- **FinSight AI (Financial Intelligence Engine)**: [Live Site](https://finsight-ai-smoky.vercel.app/)  
   Production-grade system for analyzing large financial reports using hybrid AI, enabling structured extraction, accurate Q&A, and cross-company investment insights.
 
-- **KaryaSaarthi AI (Multi-Agent Workflow Assistant)**  
-  Converts unstructured inputs into structured tasks, execution plans, and workload insights using coordinated multi-agent processing.
-
-- **Enterprise Cloud Attendance System**  
-  Full-stack MERN platform with CI/CD, Docker, Ansible deployments, and real-time monitoring using Prometheus and Grafana.
-
-- **VeriFy – Fake News Detection Website**  
-  NLP-based web app using BERT to classify news authenticity with real-time interaction and scraping support.
-
-- **Personal Portfolio Website**  
+- **Personal Portfolio Website**: [Live Site](https://portfolionew-eosin.vercel.app/)  
   Fully responsive, dynamic portfolio with modern UI/UX, theme switching, and integrations.
 
-- **StayNGo – Lodging Platform**  
+- **Enterprise Cloud Attendance System**: [GitHub Repo](https://github.com/debjitghosal/attendance_tracker)  
+  Full-stack MERN platform with CI/CD, Docker, Ansible deployments, and real-time monitoring using Prometheus and Grafana.
+
+- **KaryaSaarthi AI (Multi-Agent Workflow Assistant)**: [Live Site](https://karyasaarthi-frontend-1003198441621.us-central1.run.app/)  
+  Converts unstructured inputs into structured tasks, execution plans, and workload insights using coordinated multi-agent processing.
+
+- **VeriFy – Fake News Detection Website**: [GitHub Repo](https://github.com/debjitghosal/Fake_News_Detector)  
+  NLP-based web app using BERT to classify news authenticity with real-time interaction and scraping support.
+
+- **StayNGo – Lodging Platform**: [GitHub Repo](https://github.com/debjitghosal/StayNGo)  
   Secure booking system with authentication, role-based access, and admin control.
 
-- **Mom's Birthday Cinematic Mini-Movie**  
+- **Mom's Birthday Cinematic Mini-Movie**: [Live Site](https://momsbirthdaymovie.netlify.app/)  
   Interactive animated web experience using HTML, CSS, and JavaScript.
+
+- **HoneyTrapX – Deception-Based Intruder Tracking System**: [GitHub Repo](https://github.com/debjitghosal/HoneyTrapX)  
+  Cybersecurity honeypot system that silently captures intruder photos, GPS data, and activity logs, with a real-time admin dashboard for evidence analysis.
+
+- **ArtIQ – Image Style Identifier**: [GitHub Repo](https://github.com/debjitghosal/ArtIQ_image_identifier)  
+  Full-stack image classification system using FastAI and ResNet-50 to detect artistic styles, deployed via Docker with a React-based frontend for real-time inference.
 
 ---
 
 ### 💼 Internship Projects
 
-- **Optimix Advisors LLP – Company Website**  
+- **Optimix Advisors LLP – Company Website**: [Live Site](http://optimixadvisors.com/)  
   Increased organic traffic by 35% and contributed to 20% revenue growth. Reduced load time by 45% using performance optimizations.
 
-- **Fugumobile Limited – AI Avatar Chatbot**  
+- **Fugumobile Limited – AI Avatar Chatbot**: [Live Site](https://www.fugumobile.com/)  
   Built a multimodal chatbot (voice + text + visuals), increasing engagement by 60% and reducing costs by 30% via serverless deployment.
 
 ---
