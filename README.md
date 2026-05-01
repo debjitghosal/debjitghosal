@@ -162,7 +162,9 @@
 
 ### 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=debjitghosal&theme=onedark)### 📫 Connect with Me
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=debjitghosal&theme=onedark)
+
+### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debjit-ghosal/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/debjitiscool/)
