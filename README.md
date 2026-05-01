@@ -1,5 +1,6 @@
 <!-- 👋 Hi there, I'm Debjit Ghosal -->
-
+<h1 align="center">Debjit Ghosal</h1>
+<h3 align="center">AI Engineer | Finance-Aware Builder | Full-Stack Systems | Data & Business Analyst</h3>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,100:6C63FF&height=240&section=header&text=Debjit%20Ghosal&fontSize=45&fontAlignY=35&animation=fadeIn" />
 </p>
