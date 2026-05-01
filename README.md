@@ -1,4 +1,4 @@
-c<!-- 👋 Hi there, I'm Debjit Ghosal -->
+<!-- 👋 Hi there, I'm Debjit Ghosal -->
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,100:6C63FF&height=240&section=header&text=Debjit%20Ghosal&fontSize=45&fontAlignY=35&animation=fadeIn" /> </p>
 
@@ -54,9 +54,9 @@ c<!-- 👋 Hi there, I'm Debjit Ghosal -->
 - **StayNGo – Lodging Platform**: [GitHub Repo](https://github.com/debjitghosal/StayNGo)  
   Secure booking system with authentication, role-based access, and admin control.
 
-- **HoneyTrapX – Deception-Based Intruder Tracking System**: [GitHub Repo](https://github.com/debjitghosal/HoneyTrapX)  
-  Cybersecurity honeypot system that silently captures intruder photos, GPS data, and activity logs, with a real-time admin dashboard for evidence analysis.
-
+- **HoneyTrapX – Cybersecurity Honeypot System**: [GitHub Repo](https://github.com/debjitghosal/HoneyTrapX) | [Admin Demo (Laptop)](https://drive.google.com/file/d/1Iq2rza6qaN5VeHSydwP_KO7t-oHq-qUR/view?usp=sharing) | [User Demo (Mobile)](https://drive.google.com/file/d/19Lt8WPiUHLzbJcmyxnCZXJGQ0xxHanSv/view?usp=sharing)  
+  Deception-based intruder tracking system that silently captures photos, GPS location, and activity logs. Features a real-time admin dashboard for evidence monitoring, demonstrating practical cybersecurity defense and threat intelligence concepts.
+  
 - **ArtIQ – Image Style Identifier**: [GitHub Repo](https://github.com/debjitghosal/ArtIQ_image_identifier)  
   Full-stack image classification system using FastAI and ResNet-50 to detect artistic styles, deployed via Docker with a React-based frontend for real-time inference.
 
@@ -74,7 +74,40 @@ c<!-- 👋 Hi there, I'm Debjit Ghosal -->
   Built a multimodal chatbot (voice + text + visuals), increasing engagement by 60% and reducing costs by 30% via serverless deployment.
 
 ---
+### 📄 Publications
 
+- **Bridging Machine Learning and Generative AI for Intelligent Vulnerability Detection and Remediation in Source Code**  
+  *4th IEEE International Conference on Interdisciplinary Approaches in Technology and Management for Social Innovation (IEEE IATMSI 2026)*  
+  [View Authors & Paper](https://ieeexplore.ieee.org/document/11465968/authors)  
+
+  Proposed a hybrid ML + Generative AI system for detecting software vulnerabilities and generating context-aware remediation strategies, combining static analysis with intelligent code understanding.
+
+---
+### 📜 Certifications
+
+- [Oracle Cloud Infrastructure – 2025 Certified Data Science Professional](https://catalog-education.oracle.com/ords/certview/sharebadge?id=24EA53BE5C3E481BC4E1D3F7335FE64ECD58E456513870E73F0E2983977C9CDC)  
+  Gained hands-on experience in building, deploying, and optimizing scalable data science models on cloud infrastructure.
+
+- [Oracle Cloud Infrastructure – 2025 Certified Generative AI Professional](https://catalog-education.oracle.com/ords/certview/sharebadge?id=8762FCBD2370F5701E4FC4DB75BE6EF07672B99FF72742BBD70B453C0092422F)  
+  Learned practical applications of LLMs, prompt engineering, and deploying generative AI solutions at scale.
+
+- [Oracle Cloud Infrastructure – 2025 Certified AI Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=697CEE996CFB7EAF668C098C194F53C461B1568C6FE16E678E61EF3B0BCD1CD8)  
+  Built a strong foundation in AI concepts, machine learning workflows, and enterprise AI services.
+
+- [Full Stack Web Development Bootcamp – Udemy](https://www.udemy.com/certificate/UC-d63e68af-e337-4aa0-bc94-4dd0c2cee941/)  
+  Developed end-to-end web applications with modern frontend, backend, APIs, and database integration.
+
+- [Complete Python Bootcamp – Udemy](https://www.udemy.com/certificate/UC-7ed9f0bc-20a0-4f27-bd41-f62f68e29102/)  
+  Strengthened core programming skills, problem-solving, and real-world scripting using Python.
+
+- [JPMorgan Investment Banking Simulation – Forage](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ZtgA28qyexifyEdHE/YD2kY95RQxQtXxFTS_ZtgA28qyexifyEdHE_ZQvae2SSp8YEh7mRM_1743927797748_completion_certificate.pdf)  
+  Learned financial analysis, valuation thinking, and how investment banking decisions are made in real scenarios.
+
+- [Tata Data Visualization – Forage](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ifobHAoMjQs9s6bKS/MyXvBcppsW2FkNYCX_ifobHAoMjQs9s6bKS_ZQvae2SSp8YEh7mRM_1743918996940_completion_certificate.pdf)  
+  Gained skills in translating complex business data into clear, actionable insights through effective visualization.
+
+
+---
 ### 🧰 Tech Stack
 
 #### 💻 Languages  
@@ -110,10 +143,6 @@ c<!-- 👋 Hi there, I'm Debjit Ghosal -->
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
 
----
-
-### 📜 Certifications
-(keep same as yours)
 
 ---
 
