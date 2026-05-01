@@ -1,7 +1,139 @@
 <!-- 👋 Hi there, I'm Debjit Ghosal -->
 
 <table>
+  <tr><!-- 👋 Hi there, I'm Debjit Ghosal -->
+
+<table>
   <tr>
+    <td>
+      <h1>👋 Hi there, I'm Debjit Ghosal</h1>
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="333" alt="Coding GIF">
+    </td>
+  </tr>
+</table>
+
+Software engineer with a strong focus on data analytics, financial insights, and business-driven problem solving, building scalable and impactful systems.
+
+With a strong foundation in both technical development and product thinking, I focus on building real-world solutions that combine performance, usability, and clean architecture. I enjoy working across the stack and solving problems that sit at the intersection of technology, data, and business.
+
+---
+
+### 🔗 Portfolio
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%F0%9F%93%8C-blue?style=for-the-badge)](https://portfolionew-eosin.vercel.app/)
+
+---
+
+### 🧠 Projects
+
+- **FinSight AI (Financial Intelligence Engine)**  
+  Built a production-grade financial analysis system that processes large annual reports using hybrid AI (Gemini + Groq), enabling parallel extraction, accurate document-based Q&A, cross-company comparison, and investment-focused insights.
+
+- **KaryaSaarthi AI (Multi-Agent Workflow Assistant)**  
+  Developed a system that converts unstructured inputs like meeting notes into structured tasks, execution plans, and workload insights using coordinated processing and intelligent automation.
+
+- **Enterprise Cloud Attendance System**  
+  Engineered a full-stack MERN application with complete DevOps lifecycle including Dockerized services, CI/CD pipelines, Ansible-based deployments, and real-time monitoring using Prometheus and Grafana on Google Cloud.
+
+- **VeriFy – Fake News Detection Website**  
+  Built an NLP-based web application using a fine-tuned BERT model to classify news as real or fake, integrated with real-time scraping and an interactive interface.
+
+- **Personal Portfolio Website**  
+  Designed and deployed a fully responsive portfolio with dynamic content, interactive UI/UX, theme switching, and third-party integrations to showcase projects and experience.
+
+- **StayNGo – Lodging Platform**: [GitHub Repo](https://github.com/debjitghosal/StayNGo)  
+  Built a secure lodging web app with user authentication and role-based access, improving booking transparency and enabling efficient admin-based property and review management.
+
+- **Mom's Birthday Cinematic Mini-Movie**: [Live Site](https://momsbirthdaymovie.netlify.app/)  
+  A fully animated, interactive web experience built using HTML, CSS, and JavaScript.
+
+---
+
+### 💼 Internship Projects
+
+- **Optimix Advisors LLP – Company Website**: [Live Site](http://optimixadvisors.com/)  
+  Developed and launched a high-performance company website, increasing organic traffic by 35% and contributing to 20% business revenue growth. Optimized performance using caching and lazy loading, reducing load time by 45%.
+
+- **Fugumobile Limited – AI Avatar Chatbot**: [Live Site](https://www.fugumobile.com/)  
+  Engineered a multimodal AI Avatar Chatbot integrating voice, text, and visual interaction. Increased user engagement by 60% with a professional AI persona. Implemented serverless deployment using Vercel Edge Functions, reducing operational costs by 30%.
+
+---
+
+### 🧰 Tech Stack
+
+#### Programming Languages  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+#### Frontend  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
+#### Backend  
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+#### Databases  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### AI/ML & Data Science  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-2e2e2e?style=for-the-badge)
+
+#### Cloud & Hosting  
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Render](https://img.shields.io/badge/Render-FF3E00?style=for-the-badge&logo=render&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+
+#### DevOps & APIs  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+---
+
+### 📜 Certifications
+(unchanged)
+
+---
+
+### 🧩 LeetCode Stats
+(unchanged)
+
+---
+
+### 📊 GitHub Stats
+(unchanged)
+
+---
+
+### 🏆 GitHub Trophies
+(unchanged)
+
+---
+
+### 📫 Connect with Me
+(unchanged)
+
+---
+
+### 💡 Dev Quote of the Day
+(unchanged)
     <td>
       <h1>👋 Hi there, I'm Debjit Ghosal</h1>
     </td>
