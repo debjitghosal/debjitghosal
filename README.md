@@ -2,6 +2,8 @@
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,100:6C63FF&height=240&section=header&text=Debjit%20Ghosal&fontSize=45&fontAlignY=35&animation=fadeIn" /> </p>
 
+
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1500&color=00F5D4&center=true&vCenter=true&width=900&lines=Building+Data-Driven+Systems;Financial+Analytics+%7C+Backend+Engineering;Scalable+Architecture+%7C+Real-World+Impact;Turning+Complex+Problems+into+Clean+Solutions" />
 </p>
