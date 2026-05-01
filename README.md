@@ -154,18 +154,15 @@
 
 ### 📊 GitHub Stats
 
-![Debjit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=debjitghosal&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debjitghosal&layout=compact&theme=radical)
+![Debjit's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=debjitghosal&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=debjitghosal&layout=compact&theme=radical&hide=jupyter%20notebook)
 
 ---
 
 ### 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=debjitghosal&theme=onedark)
-
----
-
-### 📫 Connect with Me
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=debjitghosal&theme=onedark)### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debjit-ghosal/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/debjitiscool/)
