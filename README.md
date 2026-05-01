@@ -1,7 +1,11 @@
 <!-- 👋 Hi there, I'm Debjit Ghosal -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,100:6C63FF&height=240&section=header&text=Debjit%20Ghosal&fontSize=45&fontAlignY=35&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,100:6C63FF&height=260&section=header
+  &text=Debjit%20Ghosal%0AAI%20Engineer%20%7C%20Finance-Aware%20Builder%20%7C%20Full-Stack%20Systems%20%7C%20Data%20%26%20Business%20Analyst
+  &fontSize=45
+  &fontAlignY=35
+  &animation=fadeIn" />
 </p>
 
 <p align="center">
